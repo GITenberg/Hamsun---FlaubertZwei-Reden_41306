@@ -1,0 +1,29 @@
+_repo: Hamsun---FlaubertZwei-Reden_41306
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edschmid, Kasimir
+    birthdate: 1890
+    deathdate: 1966
+    gutenberg_agent_id: '34714'
+    url: http://www.gutenberg.org/2009/agents/34714
+    wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
+description: ''
+gutenberg_issued: '2012-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41306'
+  lccn: '30008812'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flaubert, Gustave, 1821-1880'
+- !lcsh 'Hamsun, Knut, 1859-1952'
+- !lcc 'PN'
+title: 'Hamsun / Flaubert: Zwei Reden'
+url: http://www.gutenberg.org/ebooks/41306
